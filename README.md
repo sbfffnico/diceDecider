@@ -11,7 +11,7 @@ Click "Roll the Dice"<br />
 No further steps necessary<br />
 
 Live version:<br />
-https://codepen.io/sbfffnico/full/WNJYoBq<br />
+<a target="_blank src="https://codepen.io/sbfffnico/full/WNJYoBq">https://codepen.io/sbfffnico/full/WNJYoBq</a><br />
 
 ![player1Wins](https://user-images.githubusercontent.com/25241345/194837688-35bbe49f-d509-4d9d-8b54-ded4a0ff409d.JPG)
 ![player2Wins](https://user-images.githubusercontent.com/25241345/194837696-64f72a85-5f29-4ffe-a8a4-0681dd897d3a.JPG)
