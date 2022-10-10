@@ -35,6 +35,14 @@ img {
 button {
   margin: auto;
   display: block;
+  background-color: #393E46;
+  color: #4ECCA3;
+  border: none;
+  font-size: 1.5em;
+}
+
+button:hover {
+  cursor: pointer;
 }
 
 footer {
